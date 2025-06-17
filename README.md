@@ -69,7 +69,7 @@ The backend for the Airbnb Clone project is designed to provide a robust and sca
 5. Review System: Allow users to leave reviews and ratings for properties.
 6. Data Optimization: Ensure efficient data retrieval and storage through database optimizations.
 
-### API security
+### API Security
 
 1. API Documentation
     1. OpenAPI Standard: The backend APIs are documented using the OpenAPI standard to ensure clarity and ease of integration.
